@@ -1,0 +1,36 @@
+[
+  {
+    "flightNumber": "AB123",
+    "airline": "Atlas Blue Airways",
+    "logo": "https://raw.githubusercontent.com/USERNAME/REPO/main/logos/atlas-blue.png",
+    "departureAirport": "LHR - London Heathrow",
+    "arrivalAirport": "JFK - John F. Kennedy Intl",
+    "arrivalCountry": "United States",
+    "departureTime": "2025-11-25T09:30:00+00:00",
+    "arrivalTime": "2025-11-25T12:45:00-05:00",
+    "departureGate": "A12",
+    "arrivalGate": "B4",
+    "terminal": "2",
+    "aircraft": "Boeing 787-9",
+    "duration": "8h 15m",
+    "status": "On Time",
+    "lastUpdated": "2025-11-25T08:20:00+00:00"
+  },
+  {
+    "flightNumber": "CD456",
+    "airline": "Continental Docks",
+    "logo": "https://raw.githubusercontent.com/USERNAME/REPO/main/logos/continental.png",
+    "departureAirport": "SFO - San Francisco Intl",
+    "arrivalAirport": "NRT - Narita Intl",
+    "arrivalCountry": "Japan",
+    "departureTime": "2025-11-25T11:00:00-08:00",
+    "arrivalTime": "2025-11-26T15:30:00+09:00",
+    "departureGate": "C7",
+    "arrivalGate": "1",
+    "terminal": "3",
+    "aircraft": "Airbus A350-900",
+    "duration": "11h 30m",
+    "status": "Delayed",
+    "lastUpdated": "2025-11-25T08:26:00-08:00"
+  }
+]
